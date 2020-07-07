@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">application2</string>
+    <string name="btn_show_toast">Wys roosterbrood</string>
+    <string name="tvt_name">Enter your name</string>
+    <string name="tvt_nextactivity">Send Data to Next Activity</string>
+    <string name="tvt_ShareData">Share data</string>
+    <string name="btnRecycler">recycler view </string>
+
+</resources>
